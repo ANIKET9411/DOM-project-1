@@ -20,7 +20,7 @@ To view the project, follow the instructions below:
   ## Live Version
 A live version of the project is hosted on GitHub Pages. Click the link below to view it:
 
-[Live Demo]()
+[Live Demo](https://aniket9411.github.io/DOM-project-1/)
 
 ## UI Modifications
 The following modifications have been applied to the target div element:
